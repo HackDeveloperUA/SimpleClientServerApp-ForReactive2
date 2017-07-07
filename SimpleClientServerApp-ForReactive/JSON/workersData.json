@@ -1,0 +1,62 @@
+{
+   "workers" : [
+
+   		{
+   			"id" : 0,
+   			"firstName" 	: "Tim",
+   			"lastName"  	: "Cook",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id0/imgs/workerid0_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id0/workersid0.json"
+   		},
+
+   		{
+   			"id" : 1,
+   			"firstName" 	: "Eddy",
+   			"lastName"  	: "Cue",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id1/imgs/workerid1_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id1/workersid1.json"
+   		},
+
+   		{
+   			"id" : 2,
+   			"firstName" 	: "Craig",
+   			"lastName"  	: "Federighi",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id2/imgs/workerid2_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id2/workersid2.json"
+   		},
+
+   		{
+   			"id" : 3,
+   			"firstName" 	: "Jonathan",
+   			"lastName"  	: "Ive",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id3/imgs/workerid3_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id3/workersid3.json"
+   		},
+
+   		{
+   			"id" : 4,
+   			"firstName" 	: "Dan",
+   			"lastName"  	: "Riccio",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id4/imgs/workerid4_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id4/workersid4.json"
+   		},
+
+   		{
+   			"id" : 5,
+   			"firstName" 	: "Philip",
+   			"lastName"  	: "W. Schiller",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id5/imgs/workerid5_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id5/workersid5.json"
+   		},
+
+
+   		{
+   			"id" : 6,
+   			"firstName" 	: "Bruce",
+   			"lastName"  	: "Sewell",
+   			"photoURL"  	: "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id6/imgs/workerid6_img1.png",
+   			"linkOnFullCV"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id6/workersid6.json"
+   		}
+   ]
+
+}

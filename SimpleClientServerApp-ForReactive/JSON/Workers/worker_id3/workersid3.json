@@ -1,0 +1,8 @@
+{
+	"id"        : 3,
+	"firstName" : "Jonathan",
+	"lastName"  : "Ive",
+	"photoURL"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id3/imgs/workerid3_img1.png",
+	"thePost"   : "Chief Design Officer",
+	"mainText"  : "Jonathan Ive is Apple’s Chief Design Officer, reporting to CEO Tim Cook.\nJony is responsible for all design at Apple, including the look and feel of Apple hardware, user interface, packaging, major architectural projects such as Apple Campus 2 and Apple’s retail stores, as well as new ideas and future initiatives."
+}

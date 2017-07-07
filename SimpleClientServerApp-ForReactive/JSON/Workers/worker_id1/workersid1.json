@@ -1,0 +1,8 @@
+{
+	"id"        : 1,
+	"firstName" : "Eddy",
+	"lastName"  : "Cue",
+	"photoURL"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id1/imgs/workerid1_img1.png",
+	"thePost"   : "Senior Vice President",
+	"mainText"  : "Eddy Cue is Apple’s senior vice president of Internet Software and Services, reporting to CEO Tim Cook.\nEddy oversees Apple’s industry-leading content stores including the iTunes Store and Apple Music, as well as Apple Pay, Siri, Maps, iAd, Apple’s innovative iCloud services, and Apple’s productivity and creativity apps. Eddy’s team has an excellent track record of building and strengthening online services to meet and exceed the high expectations of Apple’s customers."
+}

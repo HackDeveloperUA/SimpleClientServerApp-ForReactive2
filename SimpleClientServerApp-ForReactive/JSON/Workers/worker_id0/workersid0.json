@@ -1,0 +1,8 @@
+{
+	"id"        : 0,
+	"firstName" : "Tim",
+	"lastName"  : "Cook",
+	"photoURL"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id0/imgs/workerid0_img1.png",
+	"thePost"   : "Chief Executive Officer",
+	"mainText"  : "Tim Cook is the CEO of Apple and serves on its Board of Directors.\nBefore being named CEO in August 2011, Tim was Apple’s Chief Operating Officer and was responsible for all of the company’s worldwide sales and operations, including end-to-end management of Apple’s supply chain, sales activities, and service and support in all markets and countries. He also headed Apple’s Macintosh division and played a key role in the continued development of strategic reseller and supplier relationships, ensuring flexibility in response to an increasingly demanding marketplace."
+}

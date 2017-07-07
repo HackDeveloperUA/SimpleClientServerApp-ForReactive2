@@ -1,0 +1,8 @@
+{
+	"id"        : 5,
+	"firstName" : "Philip",
+	"lastName"  : "W. Schiller",
+	"photoURL"  : "https://raw.githubusercontent.com/HackDeveloperUA/SimpleClientServerApp/master/SimpleClientServerApp-ForReactive/JSON/Workers/worker_id5/imgs/workerid5_img1.png",
+	"thePost"   : "Worldwide Marketing",
+	"mainText"  : "Philip Schiller is Apple’s senior vice president of Worldwide Marketing reporting to Chief Executive Officer Tim Cook."
+}
